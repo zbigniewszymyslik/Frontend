@@ -1,0 +1,91 @@
+
+.oferta{
+font-family: 'Roboto';
+font-size: 60px;
+color: white;
+font-weight: bold;
+position: absolute;
+text-align: top center;
+top: 0%;
+left: 45%;
+}
+
+.oferta2{
+font-family: 'Roboto';
+font-size: 55px;
+font-weight: bold;
+color: #58B19F;
+position: absolute;
+text-align: left;
+left: 3%;
+bottom: 32%;
+}
+
+.nazwa{
+font-family: 'Times New Roman', Times, serif;
+font-size: 55px;
+font-weight: bold;
+font-style: italic;
+color: white;
+position: absolute;
+text-align: center;
+left: 58%;
+bottom: 61%;
+}
+
+.tekst{
+font-family: 'Roboto';
+font-size: 30px;
+line-height: 1.5px;
+font-weight: normal;
+color: black;
+position: absolute;
+bottom: -4%;
+left: 3%;
+
+
+}
+
+.pasek1{
+width: 1920px;
+height: 150px;
+background-color: #58B19F;
+position: relative;
+left: -8px;
+top: -8px;
+}
+
+.zdjecie{
+width: 1920px;
+height: 300px;
+background-image:   url(https://iv.pl/images/6964b4012157b4bc34c902640f5e640b.png);
+position: relative;
+left: -8px;
+top: -8px;
+}
+
+.pasek2{
+width: 1920px;
+height: 70px;
+background-color: #58B19F;
+position: relative;
+left: -8px;
+top: -8px;
+}
+
+.kalkulator{
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: bold;
+    height: 73px;
+    width: 428px;
+    color: white;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background: #58B19F;
+    padding: 15px 0;
+    position: absolute;
+    bottom: -10%;
+    left: 72%;
+}
